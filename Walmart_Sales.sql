@@ -1,5 +1,7 @@
 create database Walmart_Sales;
+
 use Walmart_Sales;
+
 create table sales(
 invoice_id varchar(30) not null primary key,
 branch varchar(5) not null, 
