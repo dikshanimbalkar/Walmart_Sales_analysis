@@ -1,5 +1,3 @@
-# SQL 
-
 
 # Walmart Sales Data Anaysis
 
